@@ -130,7 +130,7 @@ export const Bio = {
     {
       id: 0,
       img: "https://content3.jdmagicbox.com/comp/coimbatore/a3/0422px422.x422.101204210255.c5a3/catalogue/karpagam-institute-of-technology-eachanari-madukkari-road-coimbatore-coimbatore-colleges-31kgsf8.jpg",
-      school: "Karpagam Institute of Technology, Bhubaneswar",
+      school: "Karpagam Institute of Technology, Coimbatore",
       date: "Aug 2014 - Sep 2018",
       grade: "6.87 CGPA",
       desc: "I have completed a Bachelor's degree in Mechanical Engineering at Karpagam Institute of Technology, Coimbatore. I have a CGPA of 6.87.",
