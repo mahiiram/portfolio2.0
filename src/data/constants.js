@@ -203,7 +203,7 @@ export const Bio = {
     },
     {
       id: 2,
-      title: "Nightingale",
+      title: "Chat App-Nightingale",
       date: "Oct 2023",
       description:
       "Developed this chat application using Reactjs, Nodejs, Socket.io and Mongodb. The purpose of the chat app is user can easily communicate with their friends. If their friends registered in this application user can found them by searching username and chat with them",  
