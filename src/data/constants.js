@@ -142,7 +142,7 @@ export const Bio = {
       school: "Govt Higher Secondary School",
       date: "june 2012 -  2014",
       grade: "81%",
-      desc: "I completed my class 12 high school education at Govt hr secondary school, Thevaram.",
+      desc: "I have completed my class 12 high school education at Govt hr secondary school, Thevaram.",
       degree: "HSC(XII)-Biomaths",
     },
   ];
@@ -206,7 +206,7 @@ export const Bio = {
       title: "Nightingale",
       date: "Oct 2023",
       description:
-        "Preprocessed and augmented the dataset to improve model accuracy, trained the model, created API using model and Python, and used React web app for the project's front end. Achievements: Achieved an accuracy of 99.2% to accurately detect brain tumors from medical images.",
+      "Developed this chat application using Reactjs, Nodejs, Socket.io and Mongodb. The purpose of the chat app is user can easily communicate with their friends. If their friends registered in this application user can found them by searching username and chat with them",  
       image:
       "https://fileupload-87jg.onrender.com/images/1697193249542-407425377.png",
       tags: ["Reactjs","Nodejs","MongoDB",],
