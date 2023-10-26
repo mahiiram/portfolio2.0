@@ -111,9 +111,9 @@ export const Bio = {
     {
       id: 0,
       img: "https://play-lh.googleusercontent.com/lAFgx9P9v6g9CGiJ4yXEghRTGikQg88xuxOg30t_licriW4ODAyXVK4NHBJj-HGILw",
-      role: "Full stack developer Intern",
+      role: "Full stack developer",
       company: "Guvi Geeks Technology",
-      date: "jan 2023 - Present",
+      date: "jan 2023 - may 2023",
       desc: "Working on the frontend of the web application using ReactJS, Redux, and Material UI for the backend expressjs,nodejs,MongoDB.",
       skills: [
         "HTML",
