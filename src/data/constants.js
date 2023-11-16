@@ -7,8 +7,7 @@ export const Bio = {
     description:
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/mahiiram",
-    resume:
-      "https://drive.google.com/file/d/1DgjVnmjNmQDgU2sVjvgbsWzIuWD9cNaZ/view?usp=drive_link",
+    resume:"https://drive.google.com/file/d/1DgjVnmjNmQDgU2sVjvgbsWzIuWD9cNaZ/view?usp=drive_link",
     linkedin: "https://www.linkedin.com/in/mahendran-ramar9797/",
   };
   
@@ -111,9 +110,9 @@ export const Bio = {
     {
       id: 0,
       img: "https://play-lh.googleusercontent.com/lAFgx9P9v6g9CGiJ4yXEghRTGikQg88xuxOg30t_licriW4ODAyXVK4NHBJj-HGILw",
-      role: "Full stack developer Intern",
+      role: "Full stack developer",
       company: "Guvi Geeks Technology",
-      date: "jan 2023 - Present",
+      date: "jan 2023 - may 2023",
       desc: "Working on the frontend of the web application using ReactJS, Redux, and Material UI for the backend expressjs,nodejs,MongoDB.",
       skills: [
         "HTML",
