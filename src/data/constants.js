@@ -148,7 +148,7 @@ export const Bio = {
   
   export const projects = [
     {
-      id: 9,
+      id: 3,
       title: "Movie Booking Application",
       date: "Apr 2023 - May 2023",
       description:
@@ -212,6 +212,19 @@ export const Bio = {
       category: "web app",
       github: "https://github.com/mahiiram/chatapp-client",
       webapp: "https://nightingale-chatapp.netlify.app/",
+    },
+    {
+      id: 2,
+      title: "Notes taking App",
+      date: "Nov 2023",
+      description:
+      "Developed this Notes Taking application using Reactjs, Nodejs and Mongodb. The purpose of the Notes app is user can easily store their learning knowledge through in this app. user can save,edit,update and remove the notes through this app",  
+      image:
+      "https://fileupload-87jg.onrender.com/images/1700734845357-999992418.pn",
+      tags: ["Reactjs","Nodejs","MongoDB",],
+      category: "web app",
+      github: "https://github.com/mahiiram/notestakingapp-frontend",
+      webapp: "https://take-notes-app97.netlify.app/",
     }
   ];
   
