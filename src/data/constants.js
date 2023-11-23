@@ -220,7 +220,7 @@ export const Bio = {
       description:
       "Developed this Notes Taking application using Reactjs, Nodejs and Mongodb. The purpose of the Notes app is user can easily store their learning knowledge through in this app. user can save,edit,update and remove the notes through this app",  
       image:
-      "https://fileupload-87jg.onrender.com/images/1700734845357-999992418.pn",
+      "https://fileupload-87jg.onrender.com/images/1700734845357-999992418.png",
       tags: ["Reactjs","Nodejs","MongoDB",],
       category: "web app",
       github: "https://github.com/mahiiram/notestakingapp-frontend",
