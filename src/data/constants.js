@@ -255,11 +255,11 @@ export const Bio = {
       {
       id: 6,
       title: "Qr generator",
-      date: "Nov 2023",
+      date: "Jan 2024",
       description:
       "Developed this Qr Generator using Reactjs",  
       image:
-      "https://fileupload-87jg.onrender.com/images/1713162921580-537197379.png",
+      "https://fileupload-87jg.onrender.com/images/1713163551687-312627331.png",
       tags: ["Reactjs"],
       category: "web app",
       github: "https://github.com/mahiiram/qrgenerator",
