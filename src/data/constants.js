@@ -244,13 +244,26 @@ export const Bio = {
       title: "login page",
       date: "Nov 2023",
       description:
-      "Developed this Imdb Clone using Reactjs, Nodejs and Mongodb.",  
+      "Developed a Dummy sign in page by using HTML and CSS",  
       image:
       "https://fileupload-87jg.onrender.com/images/1713162921580-537197379.png",
       tags: ["Html5","CSS"],
       category: "web app",
       github: "https://github.com/mahiiram/assignment",
       webapp: "https://assignment-signin-page.netlify.app/",
+    },
+      {
+      id: 6,
+      title: "Qr generator",
+      date: "Nov 2023",
+      description:
+      "Developed this Qr Generator using Reactjs",  
+      image:
+      "https://fileupload-87jg.onrender.com/images/1713162921580-537197379.png",
+      tags: ["Reactjs"],
+      category: "web app",
+      github: "https://github.com/mahiiram/qrgenerator",
+      webapp: "https://mahis-qrgenerator.netlify.app/",
     }
   ];
   
