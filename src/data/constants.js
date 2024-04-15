@@ -220,11 +220,37 @@ export const Bio = {
       description:
       "Developed this Notes Taking application using Reactjs, Nodejs and Mongodb. The purpose of the Notes app is user can easily store their learning knowledge through in this app. user can save,edit,update and remove the notes through this app",  
       image:
-      "https://fileupload-87jg.onrender.com/images/1700734845357-999992418.png",
+      "https://fileupload-87jg.onrender.com/images/1713162349632-972575344.png",
       tags: ["Reactjs","Nodejs","MongoDB",],
       category: "web app",
       github: "https://github.com/mahiiram/notestakingapp-frontend",
       webapp: "https://take-notes-app97.netlify.app/",
+    },
+      {
+      id: 4,
+      title: "Imdb Clone",
+      date: "Nov 2023",
+      description:
+      "Developed this Imdb Clone using Reactjs, Nodejs and Mongodb.",  
+      image:
+      "https://fileupload-87jg.onrender.com/images/1713161838528-295969914.png",
+      tags: ["Reactjs","Nodejs","MongoDB","Redux"],
+      category: "web app",
+      github: "https://github.com/mahiiram/imdbclone-client",
+      webapp: "https://imdbclone-client-iofactory.netlify.app/",
+    },
+      {
+      id: 5,
+      title: "login page",
+      date: "Nov 2023",
+      description:
+      "Developed this Imdb Clone using Reactjs, Nodejs and Mongodb.",  
+      image:
+      "https://fileupload-87jg.onrender.com/images/1713162921580-537197379.png",
+      tags: ["Html5","CSS"],
+      category: "web app",
+      github: "https://github.com/mahiiram/assignment",
+      webapp: "https://assignment-signin-page.netlify.app/",
     }
   ];
   
