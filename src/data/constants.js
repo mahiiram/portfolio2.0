@@ -159,7 +159,7 @@ export const projects = [
     tags: ["React", "Node.js", "MongoDB", "REST APIs", "Generative AI"],
     category: "web app",
     github: "https://github.com/mahiiram",
-    webapp: "https:/syncit-crm.netlify.app",
+    webapp: "https://syncit-crm.netlify.app",
   },
   {
     id: 2,
