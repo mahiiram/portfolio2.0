@@ -148,7 +148,7 @@ const ExperienceCard = ({ experience }) => {
     return (
         <Card>
             <Top>
-                <Image src={experience.img} />
+                <Image src={experience.img} alt={experience.company} />
                 <Body>
                     <Role>{experience.role}</Role>
                     <Company>{experience.company}</Company>
@@ -166,8 +166,8 @@ const ExperienceCard = ({ experience }) => {
                         <Skills>
                             <b>Skills:</b>
                             <ItemWrapper>
-                                {experience?.skills?.map((skill, index) => (
-                                    <Skill>• {skill}</Skill>
+                                {experience?.skills?.map((skill) => (
+                                    <Skill key={skill}>• {skill}</Skill>
                                 ))}
                             </ItemWrapper>
                         </Skills>

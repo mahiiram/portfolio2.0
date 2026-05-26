@@ -118,6 +118,15 @@ const SkillImage = styled.img`
   height: 24px;
 `
 
+const SkillIconWrapper = styled.div`
+  width: 24px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: ${({ theme }) => theme.primary};
+`
+
 
 const Skills = () => {
   return (
@@ -128,15 +137,23 @@ const Skills = () => {
         </Desc>
         <SkillsContainer>
           {skills.map((skill) => (
-            <Skill>
+            <Skill key={skill.title}>
               <SkillTitle>{skill.title}</SkillTitle>
               <SkillList>
-                {skill.skills.map((item) => (
-                  <SkillItem>
-                    <SkillImage src={item.image}/>
+                {skill.skills.map((item) => {
+                  const Icon = item.icon;
+                  return (
+                  <SkillItem key={item.name}>
+                    {Icon ? (
+                      <SkillIconWrapper>
+                        <Icon size={20} />
+                      </SkillIconWrapper>
+                    ) : (
+                      <SkillImage src={item.image} alt={item.name} />
+                    )}
                     {item.name}
                   </SkillItem>
-                ))}
+                )})}
               </SkillList>
             </Skill>
           ))}
